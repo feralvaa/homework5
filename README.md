@@ -1,1 +1,1 @@
-# homework5
+Homework 5 is a project that uses local storage to create simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
